@@ -2,6 +2,7 @@
 
 int main(){
     int n ;
-    cin>>n ;
-    cout<<n ;
+    while(n--){
+        
+    }
 }
